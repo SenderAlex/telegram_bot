@@ -1,1 +1,10 @@
 Здесь кроме телеграм бота есть и backup БД postgresql
+TOKEN=номер_токена_без_кавычек
+
+ADMIN_ID=ID_кто_будет_админом
+
+IP=IP_хоста
+POSTGRES_USER=имя_пользователя_БД
+POSTGRES_PASSWORD=пароль_пользователя_БД
+POSTGRES_DATABASE=имя_БД
+POSTGRES_PORT=порт_для_подключения_к_БД_(по_умолчанию_5432)
